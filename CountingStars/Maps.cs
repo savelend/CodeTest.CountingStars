@@ -1,4 +1,6 @@
-﻿namespace CountingStars;
+﻿using System.Collections.Generic;
+
+namespace CountingStars;
 
 public static class Maps
 {

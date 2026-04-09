@@ -1,0 +1,15 @@
+C:\code\CodeTest.CountingStars\CountingStars\bin\Debug\net10.0\CountingStars.exe
+C:\code\CodeTest.CountingStars\CountingStars\bin\Debug\net10.0\CountingStars.deps.json
+C:\code\CodeTest.CountingStars\CountingStars\bin\Debug\net10.0\CountingStars.runtimeconfig.json
+C:\code\CodeTest.CountingStars\CountingStars\bin\Debug\net10.0\CountingStars.dll
+C:\code\CodeTest.CountingStars\CountingStars\bin\Debug\net10.0\CountingStars.pdb
+C:\code\CodeTest.CountingStars\CountingStars\obj\Debug\net10.0\CountingStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\CodeTest.CountingStars\CountingStars\obj\Debug\net10.0\CountingStars.AssemblyInfoInputs.cache
+C:\code\CodeTest.CountingStars\CountingStars\obj\Debug\net10.0\CountingStars.AssemblyInfo.cs
+C:\code\CodeTest.CountingStars\CountingStars\obj\Debug\net10.0\CountingStars.csproj.CoreCompileInputs.cache
+C:\code\CodeTest.CountingStars\CountingStars\obj\Debug\net10.0\CountingStars.sourcelink.json
+C:\code\CodeTest.CountingStars\CountingStars\obj\Debug\net10.0\CountingStars.dll
+C:\code\CodeTest.CountingStars\CountingStars\obj\Debug\net10.0\refint\CountingStars.dll
+C:\code\CodeTest.CountingStars\CountingStars\obj\Debug\net10.0\CountingStars.pdb
+C:\code\CodeTest.CountingStars\CountingStars\obj\Debug\net10.0\CountingStars.genruntimeconfig.cache
+C:\code\CodeTest.CountingStars\CountingStars\obj\Debug\net10.0\ref\CountingStars.dll
